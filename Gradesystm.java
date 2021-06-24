@@ -29,6 +29,6 @@ public class Gradesystm {
 
   public static void main (String[] args) {
             Gradesystm g =new Gradesystm();
-            System.out.print(g.getGrades(0));
+            System.out.print(g.getGrades(-1));
   }
 }

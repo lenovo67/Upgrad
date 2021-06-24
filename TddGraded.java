@@ -41,7 +41,7 @@ test-driven development?
    public static void main(String args[]){
    TddGraded tdd=new TddGraded();
    System.out.print("prime" +' ' +tdd.prime(2)+ ' ' +'\n');
-      System.out.print("composite"+ ' ' +tdd.composite(4)+ ' ' +'\n');
+      System.out.print("composite"+ ' ' +tdd.composite(14)+ ' ' +'\n');
       System.out.print("range"+ ' ' +tdd.range(4));
    
    
